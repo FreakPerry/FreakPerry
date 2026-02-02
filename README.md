@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Elisei, a frontend developer 👨‍💻 looking for a job in Tbilisi or remotly 🚀</div>  
+### <div align="center">I'm Elisei, a frontend developer 👨‍💻 looking for a job in Tbilisi or remote 🚀</div>  
   
 
 - 👨‍💻 Completed Yandex Practicum's Web Development program. Worked on projects and thesis. 🎓  
